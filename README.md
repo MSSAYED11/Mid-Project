@@ -1,2 +1,0 @@
-This application is an online system for booking tickets for movies. It enables users to choose their seats on a grid layout of the theater, shows the total cost for the booked seats, and asks for their details to confirm the booking. At the top, title and price details of the movie is shown. There is a filling in of the form which enables users to confirm the booking and add the name, phone number, and email in the booking. The interface is pleasing to the eye with the little movement that comes with the selection of the seats and with a contemporary design.
-
